@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4F94EE&height=200&section=header&text=EVERYMAL&fontSize=60&animation=twinkling&fontColor=F0F8FF&fontAlign=65&fontAlignY=35)
+![eveymalMain](https://github.com/Kyung-min-Kim/Everymal/assets/117739376/2d643d3d-8ee1-4568-8950-7c8af1c99b84)
 
 ## Everymal 
  A website that allows you to find nearby animal hospitals and utilize pet taxi services

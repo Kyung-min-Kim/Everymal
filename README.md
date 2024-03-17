@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4F94EE&height=200&section=header&text=EVERYMAL&fontSize=60&animation=twinkling&fontColor=F0F8FF&fontAlign=65&fontAlignY=35)
 
-## Everymal 😊
+## Everymal 
  A website that allows you to find nearby animal hospitals and utilize pet taxi services
 
-## Development Tools 🔧
+## Development Tools 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>

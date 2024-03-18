@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/myspring/stsproject/common/interceptor/ViewNameInterceptor.java=UTF-8
+encoding//src/main/java/com/myspring/stsproject/member/controller/MemberController.java=UTF-8
+encoding//src/main/java/com/myspring/stsproject/member/controller/MemberControllerImpl.java=UTF-8
+encoding//src/main/java/com/myspring/stsproject/member/dao/MemberDAOImpl.java=UTF-8
+encoding//src/main/java/com/myspring/stsproject/member/service/MemberServiceImpl.java=UTF-8
+encoding//src/main/java/com/myspring/stsproject/member/vo/MemberVO.java=UTF-8
+encoding//src/main/java/com/myspring/stsproject/petTaxi/controller/PetTaxiControllerImpl.java=UTF-8
+encoding//src/main/java/com/myspring/stsproject/petTaxi/service/PetTaxiServiceImpl.java=UTF-8
+encoding//src/main/java/com/myspring/stsproject/petTaxi/vo/PetTaxiVO.java=UTF-8
